@@ -14,5 +14,3 @@ Este projeto é um validador de bandeira de cartão de crédito que identifica a
 ```sh
 node index.js
 ```
-### Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
