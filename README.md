@@ -7,7 +7,7 @@ Este projeto é um validador de bandeira de cartão de crédito que identifica a
 1. Clone o repositório para o seu ambiente local.
 2. Navegue até o diretório do projeto.
 3. Execute o arquivo `index.js` usando Node.js.
-4. Na variável `let cardNumber` digite o número de cartão que deseja validar.
+4. Na variável `cardNumber` digite o número de cartão que deseja validar.
 
 ### Exemplo de Uso
 
